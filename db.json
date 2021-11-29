@@ -166,23 +166,15 @@
       "sliders" : [
         {
           "id" : 0,
-          "imageUrl" : "https://dodopizza-a.akamaihd.net/static/Img/Banners/g_1616990971_c40bd9c255a74f3fb903df21be4952de.jpeg"
+          "imageUrl" : "https://dodopizza-a.akamaihd.net/static/Img/Banners/g_1631191422_8085c7508813464fb209c66f95652654.jpeg"
         },
         {
           "id" : 1,
-          "imageUrl" : "https://dodopizza-a.akamaihd.net/static/Img/Banners/g_1626169964_544546a207964c559d21cbd12c3c68a0.jpeg"
+          "imageUrl" : "https://dodopizza-a.akamaihd.net/static/Img/Banners/g_1637144484_95593f16da7c42bd93c080ba657edb36.jpeg"
         },
         {
           "id" : 2,
-          "imageUrl" : "https://dodopizza-a.akamaihd.net/static/Img/Banners/g_1619517207_52ec942c9a6d407d8550e0b9d76db84b.jpeg"
-        },
-        {
-          "id" : 3,
-          "imageUrl" : "https://dodopizza-a.akamaihd.net/static/Img/Banners/g_1619042131_bde4d9794abb40b683df8661658f4775.jpeg"
-        },{
-          "id" : 4,
-          "imageUrl" : "https://dodopizza-a.akamaihd.net/static/Img/Banners/g_1596186007_4127271c5ae44204a1b03609135beff5.jpeg"
+          "imageUrl" : "https://dodopizza-a.akamaihd.net/static/Img/Banners/g_1601360618_47e471bb4370492ba90ac6abc6247878.jpeg"
         }
-  
       ]
 }
